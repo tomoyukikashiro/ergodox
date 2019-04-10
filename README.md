@@ -1,9 +1,9 @@
 
 ## v2
-https://configure.ergodox-ez.com/layouts/baex/latest/0
+https://configure.ergodox-ez.com/layouts/BBJO/latest/0
 
 ## keymap
-![img](https://i.gyazo.com/93e1818248876b1b922143d96f24439c.png)
+![img](https://i.gyazo.com/085e6369d70a9668fe103f7e7baed550.png)
 
 ## v1
 https://configure.ergodox-ez.com/keyboard_layouts/kpndyy/edit
