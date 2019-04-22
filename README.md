@@ -1,6 +1,6 @@
 
-https://configure.ergodox-ez.com/ergodox-ez/layouts/wONxP/latest/0
+https://configure.ergodox-ez.com/ergodox-ez/layouts/XbqpP/latest/0
 
 ## keymap
-[![Image from Gyazo](https://i.gyazo.com/df5e9cfd73c6540c9f9d0b4a2aa2d020.png)](https://gyazo.com/df5e9cfd73c6540c9f9d0b4a2aa2d020)
+[![Image from Gyazo](https://i.gyazo.com/784c2e511b33934b1482eb81120e970f.png)](https://gyazo.com/784c2e511b33934b1482eb81120e970f)
 
